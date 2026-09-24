@@ -1,12 +1,12 @@
 # seedance-2.5 API (seedance2.5) — 1080P guide with per-unit pricing
 
 <p align="center">
-  <img src="assets/hero.jpg" width="820" alt="seedance-2.5 sample">
+  <img src="hero.jpg" width="820" alt="sample output">
 </p>
 
 > **1080P at $0.3849 per second** — the top tier of Seedance 2.5, billed per generated second.
 
-**[Model page](https://apimart.ai/model/seedance-2.5)** · **[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Model page](https://go.apimart.ai/k-a2d3cf)** · **[Live pricing](https://go.apimart.ai/k-cfc2ca)** · **[Get an API key](https://go.apimart.ai/k-c77283)**
 
 Everything on this page refers to **seedance-2.5** — also written **seedance2.5**, **seedance 2.5** or **seedance-25** — served through the OpenAI-compatible APIMart gateway at `https://api.apimart.ai/v1`.
 

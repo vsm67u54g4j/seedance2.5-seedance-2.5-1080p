@@ -1,0 +1,13 @@
+{
+  "model": "seedance-2.5",
+  "alias": "seedance2.5",
+  "variant": "1080p",
+  "snapshot": "2026-09-24",
+  "unit_prices": {
+    "1080P": 0.38488,
+    "720P": 0.216,
+    "480P": 0.09608
+  },
+  "source": "https://go.apimart.ai/k-cfc2ca",
+  "links": {}
+}
